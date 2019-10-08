@@ -1,0 +1,5 @@
+1.cat /proc/进程号/status
+/proc 目录以可读文本文件形式输出，提供现有进程和系统硬件相关的信息如 CPU、中断、内存、磁盘
+2.jvm最大线程数量限制
+https://blog.csdn.net/xzh121121/article/details/80680512
+3.
